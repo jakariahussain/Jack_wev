@@ -56,7 +56,7 @@
     font-size: 30px;
   }
   .img-about {
-    display: none;
+    display: block;
   }
   .abt-text {
     padding: 0;
